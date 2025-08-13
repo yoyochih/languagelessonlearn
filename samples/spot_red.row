@@ -1,0 +1,6 @@
+# sample spot data (x y i wl) comma sep
+x,y,intensity,wavelength
+0.10,0.00,0.5,650
+-0.08,0.02,1.4,650
+0.00,0.00,1.0,650
+0.04,-0.03,0.9,650
