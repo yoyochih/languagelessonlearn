@@ -56,3 +56,8 @@ end
 local sum = reduce(numbers, function(a, b) return a + b end, 0)
 
 print("\nreduce 範例（計算總和）：", sum)
+
+--函數	功能	範例用途
+--map	對每個元素做轉換	數字加倍、字串轉大寫
+--filter	篩選符合條件的元素	保留偶數、過濾空值
+--reduce	把列表壓縮成單一值	計算總和、找最大值
