@@ -1,0 +1,2 @@
+path,cx,cy,rms,ee@0.5*rms,ee@1*rms,ee@2*rms
+./samples/spot_sample.row,0.004667,-0.000889,0.019824,0.266667,0.266667,1.000000
